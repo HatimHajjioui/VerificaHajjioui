@@ -1,3 +1,5 @@
 1) Le commit create in una repository locale non vengono sincronizzate automaticamente con la repository online collegata.
 
 2) Il nuovo nome standard del branch principale utilizzato come convenzione in GIT è Main.
+
+3)Il workflow dei comandi di GIT è: git add -> git commit -> git push.
