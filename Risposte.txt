@@ -9,3 +9,5 @@
 5)Il comando per effettuare il rollback ad una commit precedente è: git reset --hard [hash commit].
 
 6)Git è utilizzato come software di sistema per il controllo delle versioni, consentendo la possibilità di tornare alle versioni precedenti del programma. Rende anche più facile la condivisione di un progetto con tante persone
+
+7)La funzione di git clone è quella di copiare, da una repository online a una repository locale, tutto quello che si e fatto nel branch(in cui viene salvato tutto per esempio le commit). Mentre git pull si usa per esportare un solo file.
