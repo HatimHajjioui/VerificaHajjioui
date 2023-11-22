@@ -7,3 +7,5 @@
 4)Il comando da utilizzare per vedere l'elenco di tutte le commit del branch in cui si trova e i loro hashcode è: git log.
 
 5)Il comando per effettuare il rollback ad una commit precedente è: git reset --hard [hash commit].
+
+6)Git è utilizzato come software di sistema per il controllo delle versioni, consentendo la possibilità di tornare alle versioni precedenti del programma. Rende anche più facile la condivisione di un progetto con tante persone
