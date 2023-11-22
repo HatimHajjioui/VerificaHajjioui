@@ -14,4 +14,6 @@
 
 8)I rami di sviluppo in GIT sono istanze in cui vengono fatte delle modifiche al progetto che non vanno a modificare il ramo principale(main); si creano con il comando git checkout -b [nome del branch], per spostarsi in un altro ramo si usa il comando git checkout [nome del branch in cui spostarci], per unire le modifiche di un ramo in un altro si utilizza il comando git merge [nome del branch da unire], e per vedere il ramo corrente basta usare git status.
 
-9)L'ingegneria del software si occupa di organizzare in modo professionale un progetto che viene rischiesto da un cliente e deve stare atteneto ai costi,  ai tempi, e alla richiesta del cliente, tutto questo interagisce nella qualità del progetto.  
+9)L'ingegneria del software si occupa di organizzare in modo professionale un progetto che viene rischiesto da un cliente e deve stare atteneto ai costi,  ai tempi, e alla richiesta del cliente, tutto questo interagisce nella qualità del progetto. 
+
+10) Il ciclo di vita del software è la tutta la storia che compie un software diviso in 5 fasi: l'avvio(start up)(si decide se avviare e accettare un certo progetto), la pianificazione(si organizza e pianifica come verranno svolti i lavori all'interno del gruppo di lavoro), l'esecuzione(la prova del progetto con tutti i test possibili), la manutenzione(quando si deve modificare il software o eventualmente solo fare un controllo così che il software sia sempre utilizzabile), e la chiusura(una volta che il software non viene più utilizzato si elimina).
