@@ -11,3 +11,5 @@
 6)Git è utilizzato come software di sistema per il controllo delle versioni, consentendo la possibilità di tornare alle versioni precedenti del programma. Rende anche più facile la condivisione di un progetto con tante persone
 
 7)La funzione di git clone è quella di copiare, da una repository online a una repository locale, tutto quello che si e fatto nel branch(in cui viene salvato tutto per esempio le commit). Mentre git pull si usa per esportare un solo file.
+
+8)I rami di sviluppo in GIT sono istanze in cui vengono fatte delle modifiche al progetto che non vanno a modificare il ramo principale(main); si creano con il comando git checkout -b [nome del branch], per spostarsi in un altro ramo si usa il comando git checkout [nome del branch in cui spostarci], per unire le modifiche di un ramo in un altro si utilizza il comando git merge [nome del branch da unire], e per vedere il ramo corrente basta usare git status.
